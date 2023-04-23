@@ -1,0 +1,71 @@
+<style>
+
+feikkikirjaus{
+    background-color: rgb(12, 12, 46);
+    }
+
+    body{
+        background-color: rgb(12, 12, 46);
+    }
+    
+    
+header{
+    padding: 70px;
+   }
+  
+   h1{
+    text-align: center;
+    font-size: 70px;
+    color: antiquewhite;
+    text-decoration-style: solid;
+    text-shadow: cornsilk;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+
+    h2{
+        background-color: rgb(12, 12, 46);
+        color: antiquewhite;
+        text-align: center;
+        font-size: 30px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(12, 12, 46);
+    color: antiquewhite;
+    }
+    ul{
+        list-style: none;
+        list-style-type: none;
+        margin:0;
+        padding:0;
+      }
+      
+      #navigointi li{
+        display: block;
+        width: 200px;
+        float:left;
+        margin: 5px;
+        }
+        
+        #navigointi{
+        margin: 10px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 950px;
+        background-color: rgb(12, 12, 46);
+        }
+        
+        #navigointi a{
+            color: antiquewhite;
+            background-color: rgb(12, 12, 46);
+            padding: 10px;
+            display: block;
+            font-size: 22px;
+        }
+
+    footer{
+        background-color: rgb(12, 12, 46);
+        color: antiquewhite;
+        text-align: center;
+    }
